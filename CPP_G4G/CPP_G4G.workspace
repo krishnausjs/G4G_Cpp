@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPP_G4G" Database="" Version="10.0.0">
+  <Project Name="First_element_occuring_k_times_in_an_array" Path="First_element_occuring_k_times_in_an_array/First_element_occuring_k_times_in_an_array.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="First_element_occuring_k_times_in_an_array" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="First_element_occuring_k_times_in_an_array" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
