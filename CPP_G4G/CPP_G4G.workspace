@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="CPP_G4G" Database="" Version="10.0.0">
-  <Project Name="First_element_occuring_k_times_in_an_array" Path="First_element_occuring_k_times_in_an_array/First_element_occuring_k_times_in_an_array.project" Active="Yes"/>
+  <Project Name="First_element_occuring_k_times_in_an_array" Path="First_element_occuring_k_times_in_an_array/First_element_occuring_k_times_in_an_array.project" Active="No"/>
+  <Project Name="StringStream_demo" Path="StringStream_demo/StringStream_demo.project" Active="No"/>
+  <Project Name="Binary_Numbers" Path="Binary_Numbers/Binary_Numbers.project" Active="No"/>
+  <Project Name="BinarySearchTree_Compare" Path="BinarySearchTree_Compare/BinarySearchTree_Compare.project" Active="No"/>
+  <Project Name="LinkedLists" Path="LinkedLists/LinkedLists.project" Active="No"/>
+  <Project Name="Lambda" Path="Lambda/Lambda.project" Active="No"/>
+  <Project Name="Longest_common_prefix_Bin_search" Path="Longest_common_prefix_Bin_search/Longest_common_prefix_Bin_search.project" Active="No"/>
+  <Project Name="Longest_Common_Prefix_word_by_Word" Path="Longest_Common_Prefix_word_by_Word/Longest_Common_Prefix_word_by_Word.project" Active="No"/>
+  <Project Name="Kadanes_Algorithm" Path="Kadanes_Algorithm/Kadanes_Algorithm.project" Active="No"/>
+  <Project Name="check_pair_in_arr_with_sum_x" Path="check_pair_in_arr_with_sum_x/check_pair_in_arr_with_sum_x.project" Active="No"/>
+  <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" Path="Longest_Common_Sub_Sequence_Divide_n_Conquer/Longest_Common_Sub_Sequence_Divide_n_Conquer.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="First_element_occuring_k_times_in_an_array" ConfigName="Debug"/>
+      <Project Name="StringStream_demo" ConfigName="Debug"/>
+      <Project Name="Binary_Numbers" ConfigName="Debug"/>
+      <Project Name="BinarySearchTree_Compare" ConfigName="Debug"/>
+      <Project Name="LinkedLists" ConfigName="Debug"/>
+      <Project Name="Lambda" ConfigName="Debug"/>
+      <Project Name="Longest_common_prefix_Bin_search" ConfigName="Debug"/>
+      <Project Name="Longest_Common_Prefix_word_by_Word" ConfigName="Debug"/>
+      <Project Name="Kadanes_Algorithm" ConfigName="Debug"/>
+      <Project Name="check_pair_in_arr_with_sum_x" ConfigName="Debug"/>
+      <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="First_element_occuring_k_times_in_an_array" ConfigName="Release"/>
+      <Project Name="StringStream_demo" ConfigName="Release"/>
+      <Project Name="Binary_Numbers" ConfigName="Release"/>
+      <Project Name="BinarySearchTree_Compare" ConfigName="Release"/>
+      <Project Name="LinkedLists" ConfigName="Release"/>
+      <Project Name="Lambda" ConfigName="Release"/>
+      <Project Name="Longest_common_prefix_Bin_search" ConfigName="Release"/>
+      <Project Name="Longest_Common_Prefix_word_by_Word" ConfigName="Release"/>
+      <Project Name="Kadanes_Algorithm" ConfigName="Release"/>
+      <Project Name="check_pair_in_arr_with_sum_x" ConfigName="Release"/>
+      <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
