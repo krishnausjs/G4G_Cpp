@@ -10,7 +10,9 @@
   <Project Name="Longest_Common_Prefix_word_by_Word" Path="Longest_Common_Prefix_word_by_Word/Longest_Common_Prefix_word_by_Word.project" Active="No"/>
   <Project Name="Kadanes_Algorithm" Path="Kadanes_Algorithm/Kadanes_Algorithm.project" Active="No"/>
   <Project Name="check_pair_in_arr_with_sum_x" Path="check_pair_in_arr_with_sum_x/check_pair_in_arr_with_sum_x.project" Active="No"/>
-  <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" Path="Longest_Common_Sub_Sequence_Divide_n_Conquer/Longest_Common_Sub_Sequence_Divide_n_Conquer.project" Active="Yes"/>
+  <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" Path="Longest_Common_Sub_Sequence_Divide_n_Conquer/Longest_Common_Sub_Sequence_Divide_n_Conquer.project" Active="No"/>
+  <Project Name="Move_all_keys_to_end" Path="Move_all_keys_to_end/Move_all_keys_to_end.project" Active="No"/>
+  <Project Name="Delete_Node_without_Head_Pointer" Path="Delete_Node_without_Head_Pointer/Delete_Node_without_Head_Pointer.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -25,6 +27,8 @@
       <Project Name="Kadanes_Algorithm" ConfigName="Debug"/>
       <Project Name="check_pair_in_arr_with_sum_x" ConfigName="Debug"/>
       <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" ConfigName="Debug"/>
+      <Project Name="Move_all_keys_to_end" ConfigName="Debug"/>
+      <Project Name="Delete_Node_without_Head_Pointer" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -39,6 +43,8 @@
       <Project Name="Kadanes_Algorithm" ConfigName="Release"/>
       <Project Name="check_pair_in_arr_with_sum_x" ConfigName="Release"/>
       <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" ConfigName="Release"/>
+      <Project Name="Move_all_keys_to_end" ConfigName="Release"/>
+      <Project Name="Delete_Node_without_Head_Pointer" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

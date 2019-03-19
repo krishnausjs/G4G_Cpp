@@ -1,46 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\CPP_G4G.workspace">
-  <int Value="2" Name="m_selectedTab"/>
+  <int Value="0" Name="m_selectedTab"/>
   <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\CPP_G4G.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\Lambda\main.cpp" Name="FileName"/>
-      <int Value="33" Name="FirstVisibleLine"/>
-      <int Value="34" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\Longest_common_prefix_Bin_search\main.cpp" Name="FileName"/>
-      <int Value="76" Name="FirstVisibleLine"/>
-      <int Value="77" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\Longest_Common_Prefix_word_by_Word\main.cpp" Name="FileName"/>
-      <int Value="28" Name="FirstVisibleLine"/>
-      <int Value="29" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\Kadanes_Algorithm\main.cpp" Name="FileName"/>
-      <int Value="50" Name="FirstVisibleLine"/>
-      <int Value="51" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\check_pair_in_arr_with_sum_x\main.cpp" Name="FileName"/>
-      <int Value="54" Name="FirstVisibleLine"/>
-      <int Value="62" Name="CurrentLine"/>
+      <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\LinkedLists\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
   </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
-    <long Value="5" Name="Count"/>
+    <long Value="6" Name="Count"/>
     <SerializedObject Name="Breakpoint0">
       <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\Kadanes_Algorithm\main.cpp" Name="file"/>
       <int Value="22" Name="lineno"/>
@@ -108,6 +80,22 @@
     <SerializedObject Name="Breakpoint4">
       <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\Longest_common_prefix_Bin_search\main.cpp" Name="file"/>
       <int Value="66" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint5">
+      <wxString Value="C:\Murali\Code\github\G4G_Cpp\CPP_G4G\Move_all_keys_to_end\main.cpp" Name="file"/>
+      <int Value="35" Name="lineno"/>
       <wxString Value="" Name="function_name"/>
       <wxString Value="" Name="memory_address"/>
       <int Value="1" Name="bp_type"/>

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Longest_Common_Sub_Sequence_Divide_n_Conquer - Debug ]----------"
-	@cd "Longest_Common_Sub_Sequence_Divide_n_Conquer" && "$(MAKE)" -f  "Longest_Common_Sub_Sequence_Divide_n_Conquer.mk"
+	@echo "----------Building project:[ Delete_Node_without_Head_Pointer - Debug ]----------"
+	@cd "Delete_Node_without_Head_Pointer" && "$(MAKE)" -f  "Delete_Node_without_Head_Pointer.mk"
 clean:
-	@echo "----------Cleaning project:[ Longest_Common_Sub_Sequence_Divide_n_Conquer - Debug ]----------"
-	@cd "Longest_Common_Sub_Sequence_Divide_n_Conquer" && "$(MAKE)" -f  "Longest_Common_Sub_Sequence_Divide_n_Conquer.mk" clean
+	@echo "----------Cleaning project:[ Delete_Node_without_Head_Pointer - Debug ]----------"
+	@cd "Delete_Node_without_Head_Pointer" && "$(MAKE)" -f  "Delete_Node_without_Head_Pointer.mk" clean
