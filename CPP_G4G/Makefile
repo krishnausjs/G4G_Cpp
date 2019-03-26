@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Delete_Node_without_Head_Pointer - Debug ]----------"
-	@cd "Delete_Node_without_Head_Pointer" && "$(MAKE)" -f  "Delete_Node_without_Head_Pointer.mk"
+	@echo "----------Building project:[ substrings_using_suffix_trie - Debug ]----------"
+	@cd "substrings_using_suffix_trie" && "$(MAKE)" -f  "substrings_using_suffix_trie.mk"
 clean:
-	@echo "----------Cleaning project:[ Delete_Node_without_Head_Pointer - Debug ]----------"
-	@cd "Delete_Node_without_Head_Pointer" && "$(MAKE)" -f  "Delete_Node_without_Head_Pointer.mk" clean
+	@echo "----------Cleaning project:[ substrings_using_suffix_trie - Debug ]----------"
+	@cd "substrings_using_suffix_trie" && "$(MAKE)" -f  "substrings_using_suffix_trie.mk" clean

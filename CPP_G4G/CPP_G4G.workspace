@@ -12,7 +12,9 @@
   <Project Name="check_pair_in_arr_with_sum_x" Path="check_pair_in_arr_with_sum_x/check_pair_in_arr_with_sum_x.project" Active="No"/>
   <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" Path="Longest_Common_Sub_Sequence_Divide_n_Conquer/Longest_Common_Sub_Sequence_Divide_n_Conquer.project" Active="No"/>
   <Project Name="Move_all_keys_to_end" Path="Move_all_keys_to_end/Move_all_keys_to_end.project" Active="No"/>
-  <Project Name="Delete_Node_without_Head_Pointer" Path="Delete_Node_without_Head_Pointer/Delete_Node_without_Head_Pointer.project" Active="Yes"/>
+  <Project Name="Delete_Node_without_Head_Pointer" Path="Delete_Node_without_Head_Pointer/Delete_Node_without_Head_Pointer.project" Active="No"/>
+  <Project Name="Trie_insert_and_search" Path="Trie_insert_and_search/Trie_insert_and_search.project" Active="No"/>
+  <Project Name="substrings_using_suffix_trie" Path="substrings_using_suffix_trie/substrings_using_suffix_trie.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -29,6 +31,8 @@
       <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" ConfigName="Debug"/>
       <Project Name="Move_all_keys_to_end" ConfigName="Debug"/>
       <Project Name="Delete_Node_without_Head_Pointer" ConfigName="Debug"/>
+      <Project Name="Trie_insert_and_search" ConfigName="Debug"/>
+      <Project Name="substrings_using_suffix_trie" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -45,6 +49,8 @@
       <Project Name="Longest_Common_Sub_Sequence_Divide_n_Conquer" ConfigName="Release"/>
       <Project Name="Move_all_keys_to_end" ConfigName="Release"/>
       <Project Name="Delete_Node_without_Head_Pointer" ConfigName="Release"/>
+      <Project Name="Trie_insert_and_search" ConfigName="Release"/>
+      <Project Name="substrings_using_suffix_trie" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
